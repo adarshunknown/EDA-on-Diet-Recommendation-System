@@ -1,0 +1,548 @@
+Timestamp,Please enter your name,What is your age?,What is your Gender?,What  is your Height?(in cm),What is your Weight?(in kg),"If known, enter your body fat percentage(%)",  How physically active are you on a daily basis?  ,Do you have diabetes?,  Do you have high or low blood pressure?  ,  How many hours do you sleep daily on average?  ,Are you lactose intolerant?,  Do you follow a vegetarian or non-vegetarian diet?  ,How many meals do you eat per day (on average)?  ,Any other medical conditions we should consider?,Email address
+29/06/2025 08:00:45,Phaneendra,26,Male,177.8,95,30,Sedentary (little or no exercise),No,Normal,5,No,Non-vegetarian,3,,phaneendrasunny1@gmail.com
+29/06/2025 08:21:10,Vicky ,24,Male,170,65,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,3,,vickygandamalla176@gmail.com
+29/06/2025 08:24:48,Uneendra Chintala,23,Male,179,111,,Lightly active (light exercise 1–3 days/week),No,Normal,5,No,Non-vegetarian,4,No,uneendrachintala@gmail.com
+29/06/2025 08:42:56,K Chandana ,23,Female,5.2,42,,Sedentary (little or no exercise),No,Normal,10,No,Non-vegetarian,2,No,chandanar640@gmail.com
+29/06/2025 08:46:39,Naveena,23,Female,154,45,,Sedentary (little or no exercise),No,Normal,9,No,Non-vegetarian,3,NA,tnaveenareddy06793@gmail.com
+29/06/2025 08:46:39,U.jyotshna,24,Female,5.5,46,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,Allergies,jyotshnakanna1588@gmail.com
+29/06/2025 08:49:40,D gowthamreddy ,25,Male,180,89,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,2,1,gr255750@gmail.com
+29/06/2025 08:50:26,CAE engineer,24,Male,174,60,12,Very active (hard exercise 6–7 days/week),No,Normal,9,No,Non-vegetarian,3,,vijayj9885@gmail.com
+29/06/2025 08:56:25,Gupta,26,Male,183,60,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,3,,jagadeeshgupta457@gmail.com
+29/06/2025 09:04:13,Kishore ,38,Male,5.7,80,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Vegetarian,2,,gandamallakishore@gmail.com
+29/06/2025 09:06:12,Jinkalasaiteja ,24,Male,5.5,75,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,2,No,saiteja.jinkala27@gmail.com
+29/06/2025 09:07:47,Jinkala Vyshnavi ,20,Female,170,50,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,,vyshjinka@gmail.com
+29/06/2025 09:08:08,GANDAMALLA Narsimha,20,Male,186,94,57,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,2,No,manigandamalla9@gmail.com
+29/06/2025 09:27:39,T CHINNAREDDY ,31,Male,5.6,65,60,Lightly active (light exercise 1–3 days/week),No,High,8,No,Non-vegetarian,4,Etc,chinna7997025458@gmail.com
+29/06/2025 09:58:11,Mayur kulkarni ,29,Male,176,78,,Sedentary (little or no exercise),No,Normal,4,Yes,Vegetarian,2,Allergies ,mayurkulkarni636@gmail.com
+29/06/2025 10:22:08,Manohar Kandula ,28,Male,179,78,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Vegetarian,3,,kandulamanohar888@gmail.com
+29/06/2025 10:38:44,V.Srivani,21,Female,5.5,60,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,2,NA,srivani9803@gmail.com
+29/06/2025 10:39:00,Aditya,27,Male,172,68,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,,19aditya98@gmail.com
+29/06/2025 10:41:24,Ajita,23,Female,5.6,63,,Moderately active (moderate exercise 3–5 days/week),No,Low,7,No,Vegetarian,3,No,ajita.goud9@gmail.com
+29/06/2025 10:41:32,Adarsh Gouda ,23,Male,174,64,18,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,N/A,adarshgouda2020@gmail.com
+29/06/2025 10:43:35,Aniket Gouda ,18,Male,175,65,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegan,3,,aniket007gouda@gmail.com
+29/06/2025 10:47:33,Raj Gupta ,19,Male,170,54,,Moderately active (moderate exercise 3–5 days/week),No,Low,7,No,Vegetarian,4,No,rajgupta18072006@gmail.com
+29/06/2025 10:48:17,AMAN GOUD,21,Male,170,64,50,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,4,-,aman.goud902@gmail.com
+29/06/2025 10:56:36,Niharika Gouda ,33,Female,156,59,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,2,"No, esonophilis low impact",niharikagouda92@gmail.com
+29/06/2025 10:59:57,Kudavale,26,Male,183,110,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,2,,akudavale@gmail.com
+29/06/2025 11:07:24,shreetam maharana,23,Male,161,62,30,Extra active (very intense physical job or training),No,Normal,4,No,Non-vegetarian,3,no,shreetammaharana2002@gmail.com
+29/06/2025 11:14:15,Aruna gouda,54,Female,5,58,,Moderately active (moderate exercise 3–5 days/week),No,High,8,No,Vegetarian,3,Na,arunagouda1507@gmail.com
+29/06/2025 11:24:05,Nimmaka vasudev ,23,Male,182,85,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,3,Cancer,vasudevastroied@gmail.com
+29/06/2025 11:24:28,Ramakrishna Reddy,27,Male,176,69,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,No,ramramakrishnareddy7@gmail.com
+29/06/2025 11:27:15,kalimikanakavarahalu,23,Male,160,50,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,3,no,kanakavarahalukalimi1@gmail.com
+29/06/2025 11:28:24,Arcot Vishnu Vardhan,22,Male,183,90,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,no,vishnuvardhanarcot6@gmail.com
+29/06/2025 11:32:05,Shradha,22,Female,152,85,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Vegetarian,3,NA,sskanungo02@gmail.com
+29/06/2025 11:33:52,Shiv kandra ,24,Male,168,60,,Lightly active (light exercise 1–3 days/week),No,Normal,6,Yes,Non-vegetarian,3,No,ankitbhullb159@gmail.com
+29/06/2025 11:35:47,Charan ,19,Male,155,68,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,No,saicharant28@gmail.com
+29/06/2025 11:39:34,Harsha,23,Male,160,100,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No,harshavardhangoudak@gmail.com
+29/06/2025 11:46:29,Ayush Raj,21,Male,170.688,60,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,3,Fungus Infection,ayushraj02929@gmail.com
+29/06/2025 11:50:13,D. Siri,32,Female,5.5,40,,Sedentary (little or no exercise),No,Normal,6,No,Vegetarian,3,No,sirid0805@gmail.com
+29/06/2025 11:54:31,Sumeet Kumar Gouda,23,Male,169,69,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Vegetarian,3,No,sumeetgouda2012@gmail.com
+29/06/2025 11:55:39,Gopal Goud Bathula,35,Male,175,65,,Very active (hard exercise 6–7 days/week),No,Normal,6,No,Non-vegetarian,2,,gopalgoud08@gmail.com
+29/06/2025 11:59:30,G Anjil reddy,32,Male,154,59,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,No,anjilreddy888@gmail.com
+29/06/2025 12:02:53,Baleesh,37,Male,169,71,,Very active (hard exercise 6–7 days/week),No,Normal,6,No,Non-vegetarian,3,Nil,vbalu123456@gmail.com
+29/06/2025 12:04:40,Suma latha,30,Female,200,50,,Moderately active (moderate exercise 3–5 days/week),No,Low,8,No,Vegetarian,1,No,sumalatha7213@gmail.com
+29/06/2025 12:06:08,J Naveena Reddy ,19,Female,152,53,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Vegetarian,4,No,reddynaveena62@gmail.com
+29/06/2025 12:06:43,ASHUTOSH SAMANTARA ,23,Male,188,84,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,4,Allergies ,ashutoshsamantara143@gmail.com
+29/06/2025 12:09:54,Alokita Sahu ,21,Female,165.1,53,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegetarian,3,No,alokitasahu004@gmail.com
+29/06/2025 12:13:01,Ayushman pani,22,Male,175,68,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegan,2,,paniayushman56@gmail.com
+29/06/2025 12:13:34,Akil Ghodi ,25,Male,170,78,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,,ghodiakil97@gmail.com
+29/06/2025 12:14:17,K. Sreevani ,44,Female,157,076,,Moderately active (moderate exercise 3–5 days/week),No,High,6,No,Vegetarian,3,Hysterectomy done,sreevanikajjam420@gmail.com
+29/06/2025 12:14:37,Gourav,22,Male,170,80,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,No,kyaboltipublicpipi@gmail.com
+29/06/2025 12:16:38,Shruthi Thakur ,23,Female,165,50,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,4,,shruthithakur519@gmail.com
+29/06/2025 12:16:38,Ayushman Dalai,23,Male,180,75,,Sedentary (little or no exercise),No,Normal,9,No,Non-vegetarian,5,Fatty liver,ayushmandalai2017@gmail.com
+29/06/2025 12:17:27,Ayush ,23,Male,180,80,,Extra active (very intense physical job or training),No,Normal,2,No,Non-vegetarian,6,,ayush.mohanty2002@gmail.com
+29/06/2025 12:24:32,Ashish Panda,21,Male,182,94,,Moderately active (moderate exercise 3–5 days/week),No,Low,7,No,Non-vegetarian,3,No,pandaashish231@gmail.com
+29/06/2025 12:26:06,Rajdeep Goswami ,22,Male,180,77,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6.5,No,Non-vegetarian,4,,goswamirajdeep0@gmail.com
+29/06/2025 12:30:03,Prateek,23,Male,188,85,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,2,,prateekpraharaj@gmail.com
+29/06/2025 12:34:15,Mukesh Kumar Das,28,Male,165,65,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Vegetarian,2,No,mukidas9850@gmail.com
+29/06/2025 12:39:35,Nikhithasrinivas,20,Female,153,45,,Lightly active (light exercise 1–3 days/week),No,Low,7,No,Non-vegetarian,3,None,ammupeddapally@gmail.com
+29/06/2025 12:41:20,P.pranathi Reddy ,30,Female,5.3,63,,Very active (hard exercise 6–7 days/week),Yes,Normal,2,Yes,Vegetarian,2,,pranathireddyga@gmail.com
+29/06/2025 12:50:01,Debasish Sahu,22,Male,183,65,,Very active (hard exercise 6–7 days/week),No,Normal,6,Yes,Non-vegetarian,3,,debasish190103@gmail.com
+29/06/2025 12:53:00,Kunal Kumar ,17,Male,175,60,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7.5,No,Non-vegetarian,4,,kunal42371@gmail.com
+29/06/2025 12:54:29,Pratik Agarwal,18,Male,175,90,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Vegetarian,3,,agarwalpratik544@gmail.com
+29/06/2025 12:57:42,Sabyasachi Dash ,22,Male,165,70,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegetarian,4,No,dashsabyasachi123@gmail.com
+29/06/2025 12:59:04,S.Shiva,24,Male,170,89,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,-,suthramshiva19@gmail.com
+29/06/2025 13:01:41,Bikram jena,23,Male,170,72,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,No,jbikram884@gmail.com
+29/06/2025 13:02:22,A SHALIN SUBUDHI ,22,Male,176,71,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,No,shalinsubudhi@gmail.com
+29/06/2025 13:14:35,Subhasish Mallik,22,Male,160,72,,Moderately active (moderate exercise 3–5 days/week),No,Normal,9,No,Non-vegetarian,3,,subhasishmallik0@gmail.com
+29/06/2025 13:15:10,Sanjana katta,23,Female,150,50,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,3,No,kattasanjana98@gmail.com
+29/06/2025 13:24:15,Soumyashree Kar ,23,Male,165,75,,Moderately active (moderate exercise 3–5 days/week),No,Normal,9,No,Non-vegetarian,3,Tonsillitis,sksoumyakar@gmail.com
+29/06/2025 13:28:11,Ramya,25,Female,152,50,10,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,No,ramyak2669@gmail.com
+29/06/2025 13:28:28,Anurag Dash ,23,Male,180,65,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,4,No,anuragdash36@gmail.com
+29/06/2025 13:28:45,Arun ,24,Male,154,76,,Sedentary (little or no exercise),No,Normal,8,No,Vegetarian,3,N/A,askarun.info@gmail.com
+29/06/2025 13:35:17,R Laxmi kanth Reddy ,23,Male,180,55,,Extra active (very intense physical job or training),No,Normal,6,No,Vegetarian,2,No,laxmikanthreddyramayalla@gmail.com
+29/06/2025 13:39:08,Abhimanyu Behera,29,Male,165,94,,Moderately active (moderate exercise 3–5 days/week),No,Normal,10,No,Non-vegetarian,4,No,beheraabhimanyu121094@gmail.com
+29/06/2025 13:42:05,Eswari vaalicharla,48,Female,150,63,,Moderately active (moderate exercise 3–5 days/week),No,High,8,No,Vegetarian,3,,eswarivaalicharla@gmail.com
+29/06/2025 13:42:39,Erra Ganesh ,29,Male,5.4,70,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegetarian,2,No,ganesherra11@gmail.com
+29/06/2025 14:01:53, Amrish reddy ,22,Male,181,73,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,Nil,sahilreddy469@gmail.com
+29/06/2025 14:45:10,Yamini,17,Female,172,47,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,,yamu7000@gmail.com
+29/06/2025 15:02:45,Balaji,24,Male,175,73,20,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,2,None,yallabalaji1@gmail.com
+29/06/2025 15:24:36,Keshav singh,21,Male,186,80,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,3,,ks9935957466@gmail.com
+29/06/2025 16:29:36,Jugal Panchal,21,Male,160,63,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,2,,panchaljugal0352@gmail.com
+29/06/2025 16:44:50,Kura SAMANTH Reddy,24,Male,6.1,97,,Moderately active (moderate exercise 3–5 days/week),No,Normal,9,No,Non-vegetarian,2,No,kurasamanthreddy@gmail.com
+29/06/2025 16:52:54,Shiva Kumar ,24,Male,5.4,55,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,2,No,shivanani600@gmail.com
+29/06/2025 16:55:58,Mandla Bharath,25,Male,5.11,61,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,4,No,bharathmandla631@gmail.com
+29/06/2025 17:15:31,Veeramalla sowmya ,23,Female,5.2,55,,Sedentary (little or no exercise),No,Normal,8,Yes,Non-vegetarian,2,,veeramallasowmya1705@gmail.com
+29/06/2025 17:19:03,Karunya Nagubandi ,24,Female,162,74,,Sedentary (little or no exercise),Yes,Normal,9,No,Vegetarian,3,No,karuniyanagubandi@gmail.com
+29/06/2025 17:51:20,A Lavanya ,23,Female,5,36,,Extra active (very intense physical job or training),No,High,8,Yes,Non-vegetarian,3,No,srinivasuluachandu@gmail.com
+29/06/2025 18:21:44,Vaishnavi ,16,Female,5,48,5,Lightly active (light exercise 1–3 days/week),No,Normal,8,Yes,Non-vegetarian,3,NO,srivanivallabudhas@gmail.com
+29/06/2025 18:48:58,Mahesh,3,Male,5.3,70,10,Very active (hard exercise 6–7 days/week),No,Normal,6,No,Non-vegetarian,3,No,pmahesh3018@gmail.com
+29/06/2025 18:49:22,Lion reddy,25,Male,180,98,45,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No,saisridharreddy1@gmail.com
+29/06/2025 18:56:43,Aryan Raj Gouda ,20,Male,178,70.6,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,2,,aryanrajgouda7689@gmail.com
+29/06/2025 19:06:25,V.Sathyamma,44,Female,5.7,64,5,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,No,sathyammavallabudhas@gmail.com
+29/06/2025 19:30:02,Nivesh,24,Male,163,73.5,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Vegetarian,4,No,sreenivesh225@gmail.com
+29/06/2025 19:44:02,Siba prasad Gouda,57,Male,168,60,,Moderately active (moderate exercise 3–5 days/week),Yes,Normal,8,No,Non-vegetarian,3,,sibaprasadgouda67@gmail.com
+29/06/2025 20:29:04,Shahrukh Khan ,29,Male,5.3,60,,Sedentary (little or no exercise),No,High,8,No,Non-vegetarian,3,N/A,shariqkhanp00@gmail.com
+29/06/2025 20:37:40,SHAKE ALIYA ,23,Female,5.4,72,,Lightly active (light exercise 1–3 days/week),No,Normal,8,Yes,Non-vegetarian,3,No,shakealiya768@gmail.com
+29/06/2025 20:43:39,S Aiyesha ,25,Female,5.6,55,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,No,s.aiyesha1524@gmail.com
+29/06/2025 20:51:48,Shaik Mahammad navaz,22,Male,162,62,15,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Vegetarian,2,No,navazofficial524@gmail.com
+29/06/2025 20:52:02,S Naveen Kumar ,25,Male,5.5,52,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,,naveenkumarsiripuri@gmail.com
+29/06/2025 20:52:05,Umesh Chandra Sahoo ,25,Male,177.8,62,,Moderately active (moderate exercise 3–5 days/week),No,Normal,9,No,Non-vegetarian,4,No disease ,sahoobabu6371@gmail.com
+29/06/2025 20:56:37,G rakesh ,23,Male,172,63,,Extra active (very intense physical job or training),No,Normal,8,No,Non-vegetarian,3,,gantarakeshyadav@gmail.com
+29/06/2025 20:57:08,K Praneeth,24,Male,176,65,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,,iammittu123@gmail.com
+29/06/2025 21:07:12,Yashwanth Reddy ,22,Male,6,68,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,1,NA,wastesirmail@gmail.com
+29/06/2025 21:13:14,Bhavani ,20,Female,5.7,50,,Sedentary (little or no exercise),No,High,8,No,Vegan,4,Thyroid ,uduthalabhavani2003@gmail.com
+29/06/2025 21:20:40,Uduthala Poojitha ,27,Female,4.8,58,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,No,uduthalapoojitha123@gmail.com
+29/06/2025 21:22:49,Shaik mehavish ,22,Female,158,52,30,Sedentary (little or no exercise),No,Normal,12,No,Non-vegetarian,2,"No
+",mehavishshaik32@gmail.com
+29/06/2025 21:37:34,Shameer,28,Male,5.8,65,43,Moderately active (moderate exercise 3–5 days/week),No,Normal,10,No,Non-vegetarian,4,Headache ,shameerpatan143@gmail.com
+29/06/2025 21:53:34,Sibasish ,24,Male,180,75,8,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegetarian,4,No I don't have any ,sibasishbehera2016@gmail.com
+29/06/2025 22:37:41,Hrishikesh ,22,Male,179,60,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegetarian,2,,hrishikesh2150@gmail.com
+29/06/2025 22:40:28,V ABHINAY KUMAR ,23,Male,168,45,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Vegan,2,No,abhinaychary137@gmail.com
+29/06/2025 22:43:14,G swapna ,18,Female,152,47,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,,gandhamswapna60@gmail.com
+29/06/2025 22:43:23,Sailu ,20,Female,5,48,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,2,Noo,pyatasailatha4165@gmail.com
+29/06/2025 22:44:48,J.Navya,21,Female,149,56,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,No,jakkanavya1234@gmail.com
+29/06/2025 22:47:12,Neethu,20,Female,154,55,,Sedentary (little or no exercise),No,Low,6,No,Vegan,3,No,anjilaiahg6@gmail.com
+29/06/2025 22:56:53,Swathi,19,Female,150,40,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,,gandhamswathi10@gmail.com
+29/06/2025 22:58:13,Shiva reddy,19,Male,172,50,,Moderately active (moderate exercise 3–5 days/week),No,Normal,12,No,Non-vegetarian,3,No,shivareddy9440322480@gmail.com
+29/06/2025 23:00:23,Kaveri ,23,Female,5.2,52,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,3,Thyroid ,kaverierra23@gmail.com
+29/06/2025 23:08:30,Abinash ,22,Male,159,89,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,3,No,abinashmaharana06@gmail.com
+29/06/2025 23:08:58,Chetan Kumar,24,Male,165,80,,Lightly active (light exercise 1–3 days/week),No,Normal,5,No,Vegan,3,,bchetankumar10@gmail.com
+29/06/2025 23:50:51,MD KAIF ALI,23,Male,179,69,10.7,Extra active (very intense physical job or training),No,Normal,7,No,Non-vegetarian,2,N.A.,lmkaif10@gmail.com
+29/06/2025 23:57:39,Bhargavi ,19,Female,54,55,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Vegan,3,No,munigalabhargavi2@gmail.com
+30/06/2025 00:39:48,Biswanath ,22,Male,185,87,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Vegan,3,None,mahapatralipun1029@gmail.com
+30/06/2025 05:31:20,Esapally Sriharshini,19,Female,158,48,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,2,No,sriharshiniesapally@gmail.com
+30/06/2025 05:55:48,Nani gopi,23,Male,5.1,64,,Sedentary (little or no exercise),No,Normal,7,No,Vegan,3,No,t612313@gmail.com
+30/06/2025 06:14:04,Hemanth reddy,22,Male,165,50,20,Lightly active (light exercise 1–3 days/week),No,Normal,7,Yes,Non-vegetarian,3,No,bikshamreddymarla@gmail.com
+30/06/2025 06:45:50,E.kalyani,20,Female,139,38,,Sedentary (little or no exercise),No,Normal,7,Yes,Vegetarian,3,,kalyanikalyani15783@gmail.com
+30/06/2025 07:43:53,K shiva kumar ,25,Male,162,74,,Extra active (very intense physical job or training),No,Normal,7,Yes,Non-vegetarian,3,,kumarshiva40727@gmail.com
+30/06/2025 08:18:13,Sandeep,21,Male,175,66,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,,sandeeppendra978@gmail.com
+30/06/2025 08:27:35,Vinay ravi kishore ,33,Male,163,83,60,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,2, No,vinay.vvrk@gmail.com
+30/06/2025 09:45:55,Gouthami reddy ,26,Female,5.3,42,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,1,No ,ygouthamireddy19@gmail.com
+30/06/2025 10:31:15,Srujana kalyani ,24,Female,152.4,55,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Vegetarian,3,,srujana.vaalicharla@gmail.com
+30/06/2025 11:01:51,J.Rajendranath,53,Male,159,57,,Sedentary (little or no exercise),No,Normal,8,No,Vegan,3,NA,rajender20566@gmail.com
+30/06/2025 11:06:59,Anuradha,47,Female,158,90,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,No,chintalaanuradha082@gmail.com
+30/06/2025 11:18:28,Sandeep Podisetty,42,Male,163,78,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,No,7683sandy@gmail.com
+30/06/2025 11:29:58,M srikanth ,25,Male,5.5,56,10,Sedentary (little or no exercise),No,Normal,9,No,Non-vegetarian,2,NA,s03478453@gmail.com
+30/06/2025 11:40:53,Md.altaf khan,21,Male,4,50,35,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,No,phatanaltafkhan1720@gmail.com
+30/06/2025 11:44:31,M.Govind,45,Male,5.5,75,60,Extra active (very intense physical job or training),Yes,Normal,8,No,Vegetarian,3,No,murramgovind7@gmail.com
+30/06/2025 11:46:53,Rajoli Priyanka ,36,Female,155,72,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Vegetarian,3,Thyroid,priyankarajoli96@gmail.com
+30/06/2025 11:56:09,Shaik Nazeer pasha,23,Male,5.4,55,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,,sknazeerpasha995@gmail.com
+30/06/2025 11:57:27,Kannysmart@gmail.com,27,Male,165,55,,Extra active (very intense physical job or training),No,Normal,8,No,Vegan,3,Non,kannysmart@gmail.com
+30/06/2025 12:08:13,Pushpa latha,60,Female,5.3,65,20,Moderately active (moderate exercise 3–5 days/week),Yes,Low,6,Yes,Vegan,3,Thyroid ,k.sreenivas2322@gmail.com
+30/06/2025 12:20:45,Ajit Kumar Behera ,24,Male,175,84.5,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Vegetarian,2,,ajitkumarbehera497@gmail.com
+30/06/2025 12:22:39,T.Chiranjeevi,21,Male,5.7,50,,Lightly active (light exercise 1–3 days/week),No,Normal,12,No,Non-vegetarian,3,No,chiranjeevithumakunta@gmail.com
+30/06/2025 12:23:48,Swapana,36,Female,5.2,70,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,No,swapnacherry84@gmail.com
+30/06/2025 13:12:30,Aravind Simha ,28,Male,160,65,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,2,No,18r95a0226tkrec@gmail.com
+30/06/2025 13:52:24,Dundigal Rajender,56,Male,177.8,69,,Lightly active (light exercise 1–3 days/week),Yes,High,8,No,Non-vegetarian,3,No,rajvijaya1968@gmail.com
+30/06/2025 14:00:51,Mahesh,26,Male,165,56,10,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,3,,rish7032@gmail.com
+30/06/2025 14:23:41,P . Praveen  Kumar ,43,Male,15,68,20,Very active (hard exercise 6–7 days/week),No,Low,7,No,Vegan,2,NA,praveenpanthula82@gmail.com
+30/06/2025 14:52:10,G SURESH ,36,Male,5.2,66,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,No,sureshsathyanna@gmail.com
+30/06/2025 15:20:03,Ramya,20,Female,5,55,,Sedentary (little or no exercise),No,Normal,8,No,Vegan,2,Thyroid ,ramyabhavani2105@gmail.com
+30/06/2025 15:26:30,Kadaganchi Vijay,39,Male,5.6,75,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,NA,kvijaikumar25@gmail.com
+30/06/2025 15:29:26,Phalaniswaraj ,21,Female,5,35,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Vegan,3,Pcod,teralapalaniswaraj@gmail.com
+30/06/2025 15:38:06,Sai teja,26,Male,172,67,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,2,No,tejareddy0508@gmail.com
+30/06/2025 15:45:42,Rishitha ,24,Female,156,56,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,,rishithajaggina.rj@gmail.com
+30/06/2025 15:47:20,m.ruchitha ,21,Female,5,50,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,3,Pcos,mamidiruchitha690@gmail.com
+30/06/2025 15:55:15,A.mallesh,22,Male,5.8,49,,Very active (hard exercise 6–7 days/week),Yes,Normal,5,No,Non-vegetarian,2,No,akitimalleshmudhiraj@gmail.com
+30/06/2025 15:59:38,Sai kiran Reddy ,27,Male,172,69,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,Non,kiranreddy0805@gmail.com
+30/06/2025 16:14:21,Vinay votte,21,Male,5.6,56,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,,vinayvotte@gmail.com
+30/06/2025 16:21:48,Shiva,20,Male,6.8,72,20,Lightly active (light exercise 1–3 days/week),No,Normal,10,Yes,Vegan,3,etc,shivas45699@gmail.com
+30/06/2025 16:21:59,mudavath shirisha,22,Female,4.8,51,,Sedentary (little or no exercise),No,Normal,6,Yes,Non-vegetarian,2,no,mudavathshirisha91@gmail.com
+30/06/2025 16:29:36,Pranaya ,27,Female,150,63,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,No,bindureddy3021@gmail.com
+30/06/2025 16:31:11,Salavath Gopal,27,Male,179,69,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,2,No,gopalsalavath@gmail.com
+30/06/2025 16:38:11,Bidyanshu ,22,Male,183,47,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,3,,nayak.pikul2002@gmail.com
+30/06/2025 16:46:47,Likuna Pradhan ,23,Male,178,64,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,4,No ,likunapradhan35768@gmail.com
+30/06/2025 16:55:42,DIBYAPRATYUSH DUTTA ,22,Male,164,76,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,2,No,dibyapratyushd@gmail.com
+30/06/2025 17:11:48,Medamoni Anil ,24,Male,152,70,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No,medamonianil@gmail.com
+30/06/2025 17:28:44,Devisri,21,Female,5.2,65,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,Asthama,teegalapallidevisri@gmail.com
+30/06/2025 17:30:12,Iswa ram ,21,Male,180,72,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,No,ramiswa7@gmail.com
+30/06/2025 17:38:38,NUKAVALLI LIKHITHA,26,Female,5.4,70,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,3,No,nukavallilikhitha@gmail.com
+30/06/2025 17:40:26,Srivatsa ,24,Male,161,94,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,2,Thyroid,vatsa2001@gmail.com
+30/06/2025 17:42:00,K Naveen Reddy ,22,Male,172,50,,Extra active (very intense physical job or training),No,Normal,08,No,Vegetarian,3,No,knaveenreddy832@gmail.com
+30/06/2025 18:02:24,Gayathri ,20,Female,160,47,,Very active (hard exercise 6–7 days/week),No,Low,9,No,Non-vegetarian,5,No,gayathrivuppala1905@gmail.com
+30/06/2025 18:18:47,K. Anil ,25,Male,166,68,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Vegan,2,No,kottamanil23@gmail.com
+30/06/2025 18:20:13,Pramod Kumar Patra,23,Male,167,85,,Lightly active (light exercise 1–3 days/week),No,Low,6,Yes,Non-vegetarian,4,,pk1671740@gmail.com
+30/06/2025 18:20:42,Srinath Goud ,20,Male,177,82,,Lightly active (light exercise 1–3 days/week),No,Normal,9,No,Vegan,2,No,goturishankar@gmail.com
+30/06/2025 18:23:46,M.pavan kalyan ,20,Male,6.5,70,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,3,No,pavankalyanmamidi74@gmail.com
+30/06/2025 18:24:07,Shivaji ,25,Male,165,72,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegetarian,3,,shivaji.77020@gmail.com
+30/06/2025 18:26:44,B.Mahikaran Goud,16,Male,5.5,58,,Sedentary (little or no exercise),No,Normal,6,No,Vegetarian,2,No,bmahikarangoud@gmail.com
+30/06/2025 18:28:05,Nishikant Panda ,23,Male,172.72,64,20,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,None.,nishikantpanda310@gmail.com
+30/06/2025 18:38:15,Amit ,21,Male,189,89,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,3,No,skamit123456789@gmail.com
+30/06/2025 18:40:20,Deepali ,21,Female,5.4,50,10,Very active (hard exercise 6–7 days/week),No,Normal,7,Yes,Vegetarian,2,No,panchaldeepali17@gmail.com
+30/06/2025 18:51:25,M.Rohan ,24,Male,5.7,73,60,Extra active (very intense physical job or training),Yes,High,8,No,Non-vegetarian,3,No,rohanbittu339@gmail.com
+30/06/2025 19:02:48,Vallapudasu vasavi ,21,Female,5,48,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,2,No,vallapudasuvasavi@gmail.com
+30/06/2025 19:04:05,Seelam Mamatha ,30,Female,5.2,68,30,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,Yes,Non-vegetarian,2,No,seelammamatha6186@gmail.com
+30/06/2025 19:41:19,Balram panda,43,Male,157,76,55,Lightly active (light exercise 1–3 days/week),No,Normal,7,Yes,Non-vegetarian,2,no,balrampanda9040533933@gmail.com
+30/06/2025 19:41:34,Sameer ,23,Male,172,60,13,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,3,No,sameermahankuda2018@gmail.com
+30/06/2025 19:58:41,Vyshnavi ,20,Female,5.3,56,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,3,No,banothsathyavathi1@gmail.com
+30/06/2025 20:09:16,Rangachary ,21,Male,176,54,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No,teegalapallirangachary9@gmail.com
+30/06/2025 20:22:55,Loknath Sahu,22,Male,170,70,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Vegetarian,4,,loknath2003sahu@gmail.com
+30/06/2025 20:32:56,Ashish ,23,Male,172,77,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,Nil ,debasishm351@gmail.com
+30/06/2025 20:49:07,Debasish Patnaik ,23,Male,167.64,55,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,3,No.,debasishpatnaik02@gmail.com
+30/06/2025 20:49:11,Alok sabat,23,Male,5.6,90,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,Body pain like back pain neck pain,alokmarch01@gmail.com
+30/06/2025 21:12:59,Harish,26,Male,170.7,82,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No,vaalicharla.harishbaby@gmail.com
+30/06/2025 21:24:02,Lakshmi Garlapati,23,Female,5.5,72,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,3,NA,lakshmigarlapati12@gmail.com
+30/06/2025 21:59:26,AmiyaRanjanTripathy ,21,Male,5.7,80,,Very active (hard exercise 6–7 days/week),No,Normal,5,No,Non-vegetarian,3,,tripadhyamiya@gmail.com
+30/06/2025 22:11:44,Khirod pattnayak,24,Male,183,82,,Sedentary (little or no exercise),No,Normal,6,Yes,Vegetarian,1,,khirodpattnayak2713@gmail.com
+30/06/2025 22:25:43,Devender,28,Male,164,72,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,2,,mannemdevendar@gmail.com
+30/06/2025 22:48:46,P MANISHWAR GOUD ,30,Male,169,70,,Very active (hard exercise 6–7 days/week),No,Normal,6,No,Non-vegetarian,2,No,maneshgoud.2050@gmail.com
+30/06/2025 22:52:36,Nani Vishal,27,Male,175,60,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,4,No,g.nanivishal.gnv@gmail.com
+30/06/2025 22:52:49,Sravan Kumar,26,Male,172,70,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,,sravan0777@gmail.com
+30/06/2025 22:54:42,Mohammad neha ,22,Female,5.7,60,,Moderately active (moderate exercise 3–5 days/week),No,Low,5,Yes,Non-vegetarian,3,Pcos,nehasharifa1@gmail.com
+30/06/2025 23:10:04,Bharath ,20,Male,5.7,65,5,Very active (hard exercise 6–7 days/week),No,Normal,9,Yes,Non-vegetarian,5,Pcos,bharathkumar83096@gmail.com
+30/06/2025 23:10:37,Yeshwanth ,26,Male,5.3,62,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegetarian,3,,pintumudhiraj@gmail.com
+01/07/2025 07:45:58,Gunasekhar ,24,Male,5.1,65,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,3,No,gunasekarchitikela@gmail.com
+01/07/2025 07:57:27,P.muneeswara ,23,Male,5.6,45,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No,muneswara7993@gmail.com
+01/07/2025 08:06:09,Shaik Fathima,38,Female,5.4,80,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,Thyroid ,sknazeer239@gmail.com
+01/07/2025 08:06:47,C. Lavesh,18,Male,5.9,50,,Very active (hard exercise 6–7 days/week),No,Normal,1,Yes,Non-vegetarian,1,No,clavesh348@gmail.com
+01/07/2025 08:21:30,Venki Naidu,24,Male,153,65,30,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,NA,ulabalavenkinaidu@gmail.com
+01/07/2025 08:28:03,Ch. Venkatesh,51,Male,172.72,75,,Lightly active (light exercise 1–3 days/week),Yes,High,8,No,Non-vegetarian,3,Kidney issues,chintalavenkatesh7@gmail.com
+01/07/2025 08:58:33,K Ashish ,18,Male,178,95,,Sedentary (little or no exercise),No,Normal,5,No,Non-vegetarian,2,None,kudavaleashishsingh@gmail.com
+01/07/2025 09:02:59,Anvesh P,24,Male,5.9,80,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Vegetarian,3,No,anveshp222002@gmail.com
+01/07/2025 09:05:43,Sai Manikanta,23,Male,5.9,65,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,2,No,saitammabbatula1233@gmail.com
+01/07/2025 09:13:34,Kaushik Gagan ,18,Male,175,95,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,No,gagankaushik09@gmail.com
+01/07/2025 09:15:47,Maruthi,20,Male,155.448,48,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,Nothing ,ettarimahesh77@gmail.com
+01/07/2025 09:22:34,K.Anush,18,Male,173,60,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegetarian,3,No,anush1320@gmail.com
+01/07/2025 09:27:44,GANNEPAGA HARSHITH ,19,Male,170,50,,Lightly active (light exercise 1–3 days/week),No,Normal,9,No,Non-vegetarian,3,No,gharshith_eee240214@mgit.ac.in
+01/07/2025 09:27:50,Hanumanthu,19,Male,155.448,105,,Sedentary (little or no exercise),No,Normal,8,No,Vegan,3,No,vadderaj07@gmail.com
+01/07/2025 09:32:14,Durgam yashwanth,18,Male,182,53,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,5,,yashwanth7690@gmail.com
+01/07/2025 09:32:24,Prabhu,18,Male,169,50,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,4,No,prabhukiran335@gmail.com
+01/07/2025 09:32:59,Nishu,19,Male,173,50,10,Lightly active (light exercise 1–3 days/week),No,Normal,5,No,Non-vegetarian,4,No,nishu86886@gmail.com
+01/07/2025 09:36:42,Sanjay dath,21,Male,152,50,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,2,No,kethavathsanjaydath@gmail.com
+01/07/2025 09:43:43,Sharanya ,27,Female,5.2,96,,Moderately active (moderate exercise 3–5 days/week),No,Low,8,No,Non-vegetarian,2,No,sharavi1913@gmail.com
+01/07/2025 09:44:59,Nandini Jalagary ,25,Female,5.4,80,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Vegetarian,3,Skin allergies ,nandini7008@gmail.com
+01/07/2025 09:46:23,Telu Hemanth ,17,Male,170,68,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,3,Nothing ,satyahemanth.1978@gmail.com
+01/07/2025 10:08:03,Navya,26,Female,62,5.6,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,3,No,navya199812@gmail.com
+01/07/2025 10:12:58,G Sai Gopal,27,Male,172,84,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No,saigopalsai13@gmail.com
+01/07/2025 10:21:41,T.v.s Chaitanya ,18,Male,173,68,30,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,No,tadikondachaitanya5@gmail.com
+01/07/2025 10:28:06,Indra,27,Male,5.8,65,20,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,2,No,sindrasai@gmail.com
+01/07/2025 10:44:20,Trisha ,27,Female,5,5.3,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,2,No ,trishatrivedi142@gmail.com
+01/07/2025 10:48:17,Vaishnavi,26,Female,160,63,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,No,vaishnavididdi@gmail.com
+01/07/2025 10:49:02,Lalitha,27,Female,152.4,50,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,No,lallidivya14@gmail.com
+01/07/2025 10:51:39,Ashok,25,Male,5.8,50,,Sedentary (little or no exercise),No,Normal,8,Yes,Non-vegetarian,2,,panugantiashok38@gmail.com
+01/07/2025 11:02:52,Debashis Satapathy ,22,Male,188.976,85,20,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No condition ,debashissatapathy2003@gmail.com
+01/07/2025 11:34:20,Shiv karthik ,27,Male,167,78,,Very active (hard exercise 6–7 days/week),No,Normal,7.5,No,Non-vegetarian,4,No,shivkarthik167@gmail.com
+01/07/2025 12:02:25,Lakshman Javvadi,19,Male,168,60,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,2,No,lakshmanjavvadi315@gmail.com
+01/07/2025 12:14:31,Ayush Chauhan,20,Male,172,57,,Moderately active (moderate exercise 3–5 days/week),No,Normal,9,No,Non-vegetarian,3,,ayushchauhanuk@gmail.com
+01/07/2025 12:31:15,Fahad ,41,Male,183,92,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,2,,syedfahadwahaj@gmail.com
+01/07/2025 12:40:21,N. Nagarani,30,Female,4.5,59,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,2,Thyroid pcos,nainollu@gmail.com
+01/07/2025 13:20:06,Ruchita ,26,Female,152.4,45,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,No,ruchi.513.rd@gmail.com
+01/07/2025 13:28:49,Bhanuteja,23,Male,170,70,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Vegetarian,3,,ssbt1805@gmail.com
+01/07/2025 13:31:14,Vikram,19,Male,171,65,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,,vikramsingh448848@gmail.com
+01/07/2025 13:33:55,Upender G ,26,Male,155,61,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,No,upendergongura77@gmail.com
+01/07/2025 13:36:56,Ved Rajesh Solanke ,27,Male,168,58,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,Yes,Non-vegetarian,3,,vedsolanke28@gmail.com
+01/07/2025 13:38:45,Vishal ,29,Male,5.6,58,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,2,No,vishalchintu33@gmail.com
+01/07/2025 13:52:59,Sarvesh Kukadkar,27,Male,180,72,24,Sedentary (little or no exercise),No,Normal,10,No,Vegetarian,3,None,sarveshkukadkar@gmail.com
+01/07/2025 14:04:18,Ashray,18,Male,162,62,,Very active (hard exercise 6–7 days/week),No,Normal,9,No,Non-vegetarian,3,No,cbaluffy@gmail.com
+01/07/2025 14:11:57,Naniiii,24,Male,170,70,,Moderately active (moderate exercise 3–5 days/week),No,Normal,9,No,Non-vegetarian,2,None,sainani025@gmail.com
+01/07/2025 14:14:35,Hari Prasad,18,Male,164,58,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No,hariprasad80999@gmail.com
+01/07/2025 14:18:06,Shyam ,23,Male,177,78,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegetarian,2,,314sundarshyam@gmail.com
+01/07/2025 14:24:59,Tiger,26,Male,181.3,59,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,2,🤷🏻,sshrey.laddha@gmail.com
+01/07/2025 14:32:46,P.Nikhil,25,Male,4.5,62,40,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegetarian,2,No,nikhilpula@gmail.com
+01/07/2025 14:52:36,Pinky ,23,Male,5.8,70,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,,navyasree.255@gmail.com
+01/07/2025 14:58:49,Nitheesh,25,Male,165,49,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,Yes,Vegetarian,3,,nitheeshrockstar143@gmail.com
+01/07/2025 14:59:49,Sarvesh Nalawade ,26,Male,170,80,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,3,No,sarveshnalawade20@gmail.com
+01/07/2025 15:00:16,Prateek v,16,Male,5.8,50,,Sedentary (little or no exercise),No,Normal,8,No,Vegetarian,3,Gastric,prateekcreator955@gmail.com
+01/07/2025 15:04:25,Yamini,19,Female,4.53,59,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,Nothing,moluguaishu@gmail.com
+01/07/2025 15:13:31,Ruchi,23,Female,149.86,50,,Sedentary (little or no exercise),No,Normal,12,No,Vegetarian,2,Nil,mahatoruchi2704@gmail.com
+01/07/2025 15:15:30,Vikas ,23,Male,165,60,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,4,NA,vikaswadikar1@gmail.com
+01/07/2025 15:40:21,Neelima,23,Female,154,50,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,,tejoneelima@gmail.com
+01/07/2025 15:45:13,NAINOALI NAVEEN ,36,Male,5.5,71,,Lightly active (light exercise 1–3 days/week),No,High,8,No,Non-vegetarian,2,,knaveeen991@gmail.com
+01/07/2025 15:55:21,Jolly,49,Female,165,68,,Lightly active (light exercise 1–3 days/week),Yes,High,8,No,Non-vegetarian,3,No,nibedita.goud@gmail.com
+01/07/2025 16:23:54,Mayur,24,Male,5.2,40,,Extra active (very intense physical job or training),No,Normal,7,No,Vegetarian,4,Noo,mayursirigiri@gmail.com
+01/07/2025 16:27:17,M Rakesh ,25,Male,5.7,49,,Sedentary (little or no exercise),No,Normal,8,No,Vegetarian,3,,rakeshmaltumkar513@gmail.com
+01/07/2025 16:34:38,Babji Sairam ,25,Male,165,55,,Sedentary (little or no exercise),No,Normal,12,No,Vegetarian,2,,babjisairam281@gmail.com
+01/07/2025 17:06:40,Rakesh,25,Male,166,55,,Sedentary (little or no exercise),No,Normal,6,Yes,Non-vegetarian,2,Nil,ssbadri1662@gmail.com
+01/07/2025 17:20:01,Tester,26,Male,180,95,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,2,thyroid,tester12mail@gmail.com
+01/07/2025 17:27:36,Nupur Kumari ,22,Female,5.1,62,,Lightly active (light exercise 1–3 days/week),No,Normal,12,No,Vegetarian,2,Pcos,nupurkumari200218@gmail.com
+01/07/2025 17:31:24,T R SRINIVAS ,51,Male,5.5,69,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,2,,stelkar@gmail.com
+01/07/2025 18:15:48,Neha ,23,Female,167.64,59,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegetarian,2,PCOS,nehajena06.10@gmail.com
+01/07/2025 18:17:17,Krishna Priya ,21,Female,5.4,77,,Sedentary (little or no exercise),No,Normal,9,No,Non-vegetarian,3,No,sharviralakrishnapriya@gmail.com
+01/07/2025 18:56:00,Sandhya ,25,Female,5.1,55,50,Very active (hard exercise 6–7 days/week),No,Normal,7,Yes,Non-vegetarian,2,No,sandhyasheshugari@gmail.com
+01/07/2025 19:08:09,k dharam singh,52,Male,5.6,72,35,Moderately active (moderate exercise 3–5 days/week),No,High,6,Yes,Non-vegetarian,1,no,daburdharam2004@gmail.com
+01/07/2025 19:10:51,Krishna ,27,Male,170,102,,Sedentary (little or no exercise),No,Normal,6,Yes,Non-vegetarian,3,Allergies,krishnasai.sane22@gmail.com
+01/07/2025 19:14:04,T jaipal reddy,42,Male,5.8,84,5,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,No,jaipalreddy7799568956@gmail.com
+01/07/2025 19:22:30,Madhuri ,26,Female,159,57,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,3,None,madhuri121198@gmail.com
+01/07/2025 19:40:55,Priyanka Devlekar ,28,Female,153,43,,Sedentary (little or no exercise),No,Low,6,No,Non-vegetarian,3,,pinkiponki1426@gmail.com
+01/07/2025 20:10:11,Tushal ,22,Male,177,90,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,4,No,tushal5208@gmail.com
+01/07/2025 20:20:21,M Saiteja ,22,Male,168,85,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,2,No,saiteja.machha@gmail.com
+01/07/2025 21:19:31,Konda Vinay ,24,Male,5.3,52,,Very active (hard exercise 6–7 days/week),No,Normal,9,No,Non-vegetarian,3,No ,konadavinay2@gmail.com
+01/07/2025 22:21:44,A. VISHAL,21,Male,5.8,95,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,4,N/A,sunnyvishal187@gmail.com
+02/07/2025 08:34:38,Tharun Goud,26,Male,173,75,28,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,NA,tharungoud113@gmail.com
+02/07/2025 09:17:46,Bharath Kumar,23,Male,186,58,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,3,,bharathkumarmi2049@gmail.com
+02/07/2025 10:37:58,Y Sahana,26,Female,154,65,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,None,sahanayenda@gmail.com
+02/07/2025 11:05:09,Saiteja,25,Male,165,57,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,,saiteja14067@gmail.com
+02/07/2025 11:06:01,Sahith,27,Male,190,85,,Lightly active (light exercise 1–3 days/week),No,Normal,5,No,Vegetarian,3,,vsaisahith@gmail.com
+02/07/2025 11:11:52,Bhasker boddupally ,22,Male,160,80,5,Very active (hard exercise 6–7 days/week),No,Normal,07,No,Non-vegetarian,3,No,boddupallybhaskerbhasker@gmail.com
+02/07/2025 11:29:50,Deepthi,25,Female,158,60,,Sedentary (little or no exercise),No,Normal,6,No,Vegetarian,2,,deepthianagha25@gmail.com
+02/07/2025 11:30:49,Pavan Kalyan ,26,Male,172,68,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,,pavanguna1998@gmail.com
+02/07/2025 11:38:42,K shivakrishna ,32,Male,179,90,,Very active (hard exercise 6–7 days/week),No,Normal,7,Yes,Non-vegetarian,3,Uric acid ,kshivakrishna09@gmail.com
+02/07/2025 12:02:08,Aman Jha,30,Male,175,95,,Moderately active (moderate exercise 3–5 days/week),No,High,6,No,Non-vegetarian,3,,aman595jha@gmail.com
+02/07/2025 12:10:28,Yamini,27,Female,150,62,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,2,Nothing ,motheyamini@gmail.com
+02/07/2025 12:22:12,D. Sindhu,24,Female,150,55,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,1,,dharavathsindhu49@gmail.com
+02/07/2025 12:24:34,Sharmistha Sahu ,22,Female,5,56,23,Lightly active (light exercise 1–3 days/week),No,Low,12,Yes,Non-vegetarian,2,NA,sahusharmistha9@gmail.com
+02/07/2025 12:48:51,C Akhil,28,Male,173,68,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,No,akhildopper205@gmail.com
+02/07/2025 13:06:40,Hari krishna,25,Male,187,87,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,None,hari1siri31@gmail.com
+02/07/2025 14:08:16,Nazmeen ,22,Female,4.5,40,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,2,Thyroid ,nbanu14126@gmail.com
+02/07/2025 14:14:00,Tejaswini ,23,Female,137.16,77,,Sedentary (little or no exercise),Yes,Normal,5,No,Non-vegetarian,3,No,kutti.5769@gmail.com
+02/07/2025 14:17:02,Koperla Deepthi ,24,Female,161,68,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,3,Pcos,deepthikoperla10@gmail.com
+02/07/2025 14:25:33,Shireesha,25,Female,4.1,70,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegetarian,3,"Pcos, protein 's deficiency",sirisuri2000@gmail.com
+02/07/2025 14:30:35,Revalla-upendra ,26,Male,5.8,60,,Sedentary (little or no exercise),No,Normal,9,Yes,Non-vegetarian,3,No,uppuupendra604@gmail.com
+02/07/2025 14:35:05,M.Vijaya Lakshmi,43,Female,173.7,72,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,No,vijayalakshmi123470@gmail.com
+02/07/2025 14:38:12,Lavanya ,49,Female,164,63,,Sedentary (little or no exercise),Yes,Normal,6.5,Yes,Non-vegetarian,3,Hypo Thyroidism,vikramlavanya1976@gmail.com
+02/07/2025 14:47:03,M Achuth,25,Male,5.1,80,25,Lightly active (light exercise 1–3 days/week),No,Normal,5,No,Non-vegetarian,4,No,achuthmegoti@gmail.com
+02/07/2025 14:54:37,Debinanda ,23,Female,170,92,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,Dust allergy ,mitradebinanda04@gmail.com
+02/07/2025 14:56:55,Akshay,27,Male,165,70,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,4,Na,akshaythanneru2149@gmail.com
+02/07/2025 15:18:59,Vijaya ,34,Female,148,65,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Vegetarian,2,No,kunchavaramvijaya@gmail.com
+02/07/2025 15:47:39,Swetha ,25,Female,150,51,,Lightly active (light exercise 1–3 days/week),No,Normal,6.5,No,Non-vegetarian,3,Pcos,swethasiddu3691@gmail.com
+02/07/2025 16:16:13,Malavika ,25,Female,169,83,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,4,No,malavikasagar1999@gmail.com
+02/07/2025 16:37:08,P.Satya Bhargavi ,25,Female,151,55,,Moderately active (moderate exercise 3–5 days/week),No,Low,8,No,Vegetarian,2,None,psatyabhargavi@gmail.com
+02/07/2025 18:08:28,Oruganti Sharath,27,Male,5.9,63,,Extra active (very intense physical job or training),No,Normal,24,No,Non-vegetarian,1,,vsharathgoud6@gmail.com
+02/07/2025 18:10:45,sandeep sgs,26,Male,166,75,,Moderately active (moderate exercise 3–5 days/week),No,High,8,No,Vegetarian,3,,sgssandeep1998@gmail.com
+02/07/2025 18:12:24, Jai aditya ,16,Male,164,75,30,Very active (hard exercise 6–7 days/week),No,Normal,9,No,Non-vegetarian,3,No,adithyapodishetty@gmail.com
+02/07/2025 18:49:10,Shiva sai,20,Male,168,38,,Sedentary (little or no exercise),No,Normal,7,Yes,Non-vegetarian,2,No,galishivasai6124@gmail.com
+02/07/2025 20:28:11,Aila Raju Goud ,25,Male,5.7,70,,Very active (hard exercise 6–7 days/week),No,Normal,6,No,Non-vegetarian,2,,a.rajugoud123456789@gmail.com
+02/07/2025 20:28:12,K harish ,30,Male,165,63,10,Very active (hard exercise 6–7 days/week),Yes,Normal,7,No,Vegan,2,No,kandiharish99@gmail.com
+02/07/2025 20:30:32,Alibaig,25,Male,5.9,83,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,Ntng ,yakoobalibaig789@gmail.com
+02/07/2025 20:32:25,Venky,21,Male,5.5,65,10,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegan,3,No,vv4452173@gmail.com
+02/07/2025 20:34:16,Naresh Reddy,29,Male,5.7,46,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,All good ,nareshreddy06910@gmail.com
+02/07/2025 20:52:04,Niharika,25,Female,5.4,50,,Very active (hard exercise 6–7 days/week),No,Normal,9,No,Vegetarian,2,Thyroid,sniharikaredd@gmail.com
+02/07/2025 20:54:35,Aarti,21,Female,5.5,41,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegan,2,No,aarti.khandare03@gmail.com
+02/07/2025 21:34:00,Veeresh,50,Male,6,80,,Lightly active (light exercise 1–3 days/week),Yes,High,8,No,Non-vegetarian,3,Thyroid ,veereshgoud882@gmail.com
+02/07/2025 22:20:15,Alokkumar ,26,Male,159,110,40,Extra active (very intense physical job or training),No,Normal,7,No,Vegetarian,2,Na ,alokkumarmathpati7777@gmail.com
+02/07/2025 23:51:51,Prashanth,24,Male,140,55,50,Sedentary (little or no exercise),No,Normal,3,No,Non-vegetarian,1,No,sakinalaprashanthkumar9@gmail.com
+03/07/2025 08:18:08,Harshed,28,Male,167,89,32,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No,harshed.dudekula@gmail.com
+03/07/2025 08:37:15,Niharika,28,Female,156,75,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,No,niharika.edulakanti@gmail.com
+03/07/2025 08:39:57,M SANTHOSH GOUD,37,Male,5.4,58,40,Sedentary (little or no exercise),No,Normal,8,No,Vegetarian,3,No,m.santoshlichfl@gmail.com
+03/07/2025 08:41:27,Sairaj,26,Male,5.7,60,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,2,,sairajmankur@gmail.com
+03/07/2025 09:31:03,Rasmi,39,Male,177,90,,Sedentary (little or no exercise),No,Normal,8,Yes,Non-vegetarian,2,No,rasmirpanda1@gmail.com
+03/07/2025 10:14:53,Sreeja,21,Female,157,50,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,No,sreejabhootharaju@gmail.com
+03/07/2025 10:40:44,Jagadeesh,22,Male,169,51,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,Yes,Non-vegetarian,3,No,ravi4455445@gmail.com
+03/07/2025 11:58:59,Bhuvana kruthi ,18,Female,120,35,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,6,No,bhuvanakruthibollampally@gmail.com
+03/07/2025 12:56:45,Sri Nagalakshmi,25,Female,152,55,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Vegetarian,3,,nagalakshmi.addala@gmail.com
+03/07/2025 13:31:29,Nandigama saivardhan,25,Male,6,98,9,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,Na,saivardhan9100@gmail.com
+03/07/2025 13:32:29,Tori ,26,Female,166,64,,Lightly active (light exercise 1–3 days/week),No,Normal,9,No,Non-vegetarian,5,Skin allergy ,tori.s3017@gmail.com
+03/07/2025 14:09:37,Sai Mutyam ,25,Female,148,65,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,PCOD,muthyamsaragadam9963@gmail.com
+03/07/2025 14:51:02,Himaja,25,Female,5,70,60,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,1,Gas,creazyhimaja@gmail.com
+03/07/2025 15:20:21,Seepana Yamuna,22,Female,161.5,52,,Lightly active (light exercise 1–3 days/week),No,Normal,5,No,Vegetarian,3,,seepanayamuna1014@gmail.com
+03/07/2025 15:51:50,Capricorn,24,Female,165,65,,Moderately active (moderate exercise 3–5 days/week),No,Normal,11,Yes,Non-vegetarian,3,No,srivanipathapati@gmail.com
+03/07/2025 15:58:45,Ahmed Ullah,21,Male,173,75,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,4,Na,ahmedullah0444@gmail.com
+03/07/2025 17:22:11,Rinku,30,Female,5.6,63,,Lightly active (light exercise 1–3 days/week),No,Normal,5,No,Vegetarian,2,Brinjal,gunavathia27@gmail.com
+03/07/2025 20:05:40,Basi ,27,Male,156,74,55,Extra active (very intense physical job or training),No,Normal,7,No,Non-vegetarian,2,Nothing ,d.kalyan261@gmail.com
+03/07/2025 20:09:16,D. Varshith reddy,15,Male,5.5,53,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,4,2,sr6782380@gmail.com
+03/07/2025 20:13:31,Sree ram ,15,Male,5.5,55,,Lightly active (light exercise 1–3 days/week),No,Normal,9,No,Non-vegetarian,4,5,dhanmireddy@gmail.com
+03/07/2025 22:25:26,Geetha Banapuram,45,Female,160,85,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,2,,geethasravan5994@gmail.com
+03/07/2025 22:34:46,Krishna Yasoda ,47,Female,147,68,,Very active (hard exercise 6–7 days/week),No,Normal,6,No,Non-vegetarian,2,Nothing,mothekrishnayasoda@gmail.com
+03/07/2025 22:35:01,Tulasi Bhavani ,26,Female,152,62,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,Allergy ,tulasibhavani1998@gmail.com
+03/07/2025 22:57:48,Sirisha ,25,Female,5,73,,Extra active (very intense physical job or training),No,Normal,8,No,Non-vegetarian,3,Thyroid ,siridon693@gmail.com
+03/07/2025 23:59:29,Mohan ,25,Male,176,58,10,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,NA,rcr69956@gmail.com
+04/07/2025 05:22:56,Balakrishna,65,Male,174,74,,Extra active (very intense physical job or training),No,High,8,No,Non-vegetarian,3,,chillbro.jaibalayya@gmail.com
+04/07/2025 06:10:25,U Vijaya Lakshmi ,45,Female,152,56,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,2,,2912charan@gmail.com
+04/07/2025 07:39:19,K. Pavan sagar,24,Male,167,65,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegetarian,4,Nop,pavansagar8844@gmail.com
+04/07/2025 09:25:24,DKR*123,39,Male,5.3,79,5,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,No,reddyk233@gmail.com
+04/07/2025 13:04:36,Kotha Sravan Kumar,25,Male,170.688,93,,Sedentary (little or no exercise),No,Normal,10,No,Vegan,3,,sravankumarkotha1999@gmail.com
+04/07/2025 17:43:23,Aswin,25,Male,180,98,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Vegetarian,2,Sinus ,aswinvishnuofficial@gmail.com
+04/07/2025 17:57:24,Tulasi ,42,Female,5.4,60,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,No,tulasizuhi@gmail.com
+04/07/2025 18:40:18,Sahasra Valli,20,Female,167,68,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,3,,nvsahasravalli@gmail.com
+04/07/2025 19:34:21,T Suvarna,38,Female,5.2,70,10,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,No,suvarnajaipalreddy143@gmail.com
+05/07/2025 07:28:17,Uddagiri yojitha ,25,Female,153,40,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,,uddagiriyojitha@gmail.com
+05/07/2025 18:49:11,Balakrishna ,21,Male,5.12,82,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,1,,rayapakulabala12@gmail.com
+05/07/2025 19:46:46,Bijjaram Swathi ,24,Female,5,52,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,2,No,bijjaramswathi2106@gmail.com
+05/07/2025 19:53:54,S Mounika ,23,Female,157,46,,Lightly active (light exercise 1–3 days/week),No,Normal,6,Yes,Non-vegetarian,3,,surojumounika5121@gmail.com
+05/07/2025 19:59:36,Mahmudabad Ramesh,40,Male,5.2,55,,Sedentary (little or no exercise),No,High,5,No,Non-vegetarian,3,N/A,ramesh31lichfl@gmail.com
+05/07/2025 20:10:23,BMary,23,Female,165,68,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,5,Na,marychitra9100@gmail.com
+05/07/2025 20:23:50,SURYATANUJ ,22,Male,5.7,65,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,No ,tanuja2022221311@gcrjy.ac.in
+05/07/2025 20:25:38,Aishwarya,23,Female,4.9,43,,Sedentary (little or no exercise),No,Normal,10,No,Non-vegetarian,2,N/A,yamjalaaishwaryay@gmail.com
+05/07/2025 21:10:47,BijjaramNaveenkumar,22,Male,150,55,5,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,2,NA,naveenkumargoud1323@gmail.com
+05/07/2025 22:04:57,Birra Ramadevi ,25,Female,152,64,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,Thyroid and PCOS,birraramadevi@gmail.com
+05/07/2025 22:13:48,Sowmya ,24,Female,5.3,60,,Sedentary (little or no exercise),No,Normal,8,No,Vegetarian,1,No,sambusowmyagupta11@gmail.com
+05/07/2025 22:41:10,Rajoli Ganesh ,44,Male,168,80,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,No ,ganeshraj774@gmail.com
+06/07/2025 00:26:12,Archana ,26,Female,176,84,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,3,,archanaambati7@gmail.com
+06/07/2025 00:49:36,Srinath,33,Male,164,70,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,1,No,bonsrinath@gmail.com
+06/07/2025 03:03:13,Vamshi Vardhan,25,Male,179,92,35,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,,pvamshivardhan789@gmail.com
+06/07/2025 06:30:33,Akash Reddy,21,Male,174,55,10,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,2,PCOD,akashreddy93572@gmail.com
+06/07/2025 06:49:59,Aditi ,24,Female,152,70,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,No,durgakumar232000@gmail.com
+06/07/2025 07:56:58,T Ravinder Reddy,38,Male,5.7,76,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,No,ravinderreddy934755@gmail.com
+06/07/2025 08:13:11,Naveen,23,Male,167,64,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,No,mnaveenyadav17@gmail.com
+06/07/2025 08:35:46,T Gopal Reddy,47,Male,5.3,85,5,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,No,gopalreddythirupathamolla@gmail.com
+06/07/2025 08:38:50,Raghavendra,19,Male,5.5,46,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,3,No,gollaraghavendra303@gmail.com
+06/07/2025 09:12:42,Akhila,22,Female,148,43,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,2,No,akhireddy9876@gmail.com
+06/07/2025 09:21:45,Amulya ,26,Female,160,52,,Sedentary (little or no exercise),No,Low,7,No,Non-vegetarian,3,PCO got triggered but it’s under control..,amyy.devarakonda@gmail.com
+06/07/2025 10:17:15,B Anusha Kumari ,26,Female,145,75,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,,anushakumari4444@gmail.com
+06/07/2025 10:19:06,Venkatesh ,24,Male,170,75,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegetarian,2,No,rkke60411@gmail.com
+06/07/2025 12:18:01,Amit Jain,44,Male,185,80,10,Extra active (very intense physical job or training),No,High,8,No,Vegetarian,2,No disease,amitsiyaram.jain@gmail.com
+06/07/2025 13:19:05,Kalyani,35,Female,5.2,6,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,Na,kalyani.1555@gmail.com
+06/07/2025 19:12:52,C.S.Goud,36,Male,5.7,72,,Very active (hard exercise 6–7 days/week),No,Normal,6,No,Non-vegetarian,2,NA,edigichandrashekar1201@gmail.com
+06/07/2025 20:36:37,Edigi Lavanya ,28,Female,5,55,5,Extra active (very intense physical job or training),No,Normal,8,No,Non-vegetarian,3,NA,lavanyabittu3011@gmail.com
+06/07/2025 21:06:42,Ghanakiran ,24,Male,176,63,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,2,DustAllergies ,ganakiran123@gmail.com
+06/07/2025 21:25:22,Manideep,23,Male,185,88,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,,manideepjoce9313@gmail.com
+06/07/2025 21:33:56,Vsv ajay,22,Male,180,90,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,4,Nope,vsvajay27@gmail.com
+06/07/2025 21:42:23,Sravan,20,Male,168,70,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,2,,nayaksravan870@gmail.com
+06/07/2025 21:46:59,Sandhya,20,Female,152,44,,Lightly active (light exercise 1–3 days/week),No,Normal,7,Yes,Vegetarian,3,,nakkasandhya446@gmail.com
+06/07/2025 21:47:35,Nishant,23,Male,181,85,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,3,No,nishuchi271@gmail.com
+06/07/2025 21:48:02,Lokesh,21,Male,174,53,,Sedentary (little or no exercise),No,Normal,7,No,Vegetarian,3,No,rathodlokesh651@gmail.com
+06/07/2025 21:48:23,Yangala Sahithi ,20,Female,5.3,50,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,,yangalasahithi568@gmail.com
+06/07/2025 21:58:50,Nishitha,20,Female,154,55,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,Pcos,anrnishitha12@gmail.com
+06/07/2025 22:25:35,Akshay linga,27,Male,168,89,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,,akshaylinga.gupta@gmail.com
+06/07/2025 22:34:44,Mayur,23,Male,5.4,57,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,,mayurbobby2002@gmail.com
+06/07/2025 22:43:44,Venkat sumith ,23,Male,181,95,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,4,No,sumithajay35@gmail.com
+06/07/2025 22:48:03,Bannory jagadeesh,26,Male,5.6,56,,Lightly active (light exercise 1–3 days/week),No,Normal,9,No,Non-vegetarian,3,No,jagadeeshkittu29@gmail.com
+06/07/2025 22:51:22,Deena Pragathi,27,Female,159,67,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,4,No ,deenapragathi1996@gmail.com
+07/07/2025 08:49:17,Anilvinil ,26,Male,5.9,63,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,NTG ,anilvinil1998@gmail.com
+07/07/2025 09:00:10,Dharmendar ,24,Male,172,72,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,No,dharmendraetikala@gmail.com
+07/07/2025 09:00:18,CH.GANESH SAI KUMAR ,25,Male,5.9,105,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,2,No,ganeshcheerla23@gmail.com
+07/07/2025 09:05:03,Vemula Kiran Kumar ,24,Male,175,59,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegetarian,3,,vemulakiran.19@gmail.com
+07/07/2025 09:08:16,Sharanya indala ,26,Female,5.3,55,,Moderately active (moderate exercise 3–5 days/week),No,Low,8,No,Non-vegetarian,3,None,sharanya23indala@gmail.com
+07/07/2025 09:18:12,Akhila,22,Female,250,32,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,2,,reddyakhila878@gmail.com
+07/07/2025 09:37:25,Gaddam Saikiran ,26,Male,168,64,,Sedentary (little or no exercise),No,Normal,9,Yes,Vegan,2,NO,saigaddam1818@gmail.com
+07/07/2025 09:43:36,Rajure Akash ,23,Male,5.8,62,,Very active (hard exercise 6–7 days/week),No,Normal,9,No,Non-vegetarian,3,No,rajureakash6223@gmail.com
+07/07/2025 09:45:40,Archana ,24,Female,156,48,50,Extra active (very intense physical job or training),No,Normal,7,No,Non-vegetarian,3,No,archanarebel1922@gmail.com
+07/07/2025 09:48:29,k.Yoghessh ,27,Male,163,78,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,,kyoge5789@gmail.com
+07/07/2025 09:56:31,Sreeja,25,Female,5.2,72,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Vegetarian,2,No,yamsanisreeja@gmail.com
+07/07/2025 09:57:10,Juluru shashi kumar ,25,Male,173,90,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegetarian,2,,shashikumarrock3043@gmail.com
+07/07/2025 10:01:34,Hemanth Kumar Veera ,27,Male,166,70,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,3,Asthama ,veerahemanth16@gmail.com
+07/07/2025 10:06:22,Karthik ,27,Male,169,63,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,NA,karthiksagar245@gmail.com
+07/07/2025 10:09:02,J pavan,24,Male,158,80,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,1,,joshipavan5612@gmail.com
+07/07/2025 10:18:18,Balu Talari,27,Male,179,75,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,6,No,balutalari1111@gmail.com
+07/07/2025 10:20:28,Kotha Mounika ,22,Female,158,45,,Sedentary (little or no exercise),No,Normal,9,No,Vegetarian,3,No,mounikareddykotha108@gmail.com
+07/07/2025 10:25:24,Likith Sai ,23,Male,5.8,70,,Moderately active (moderate exercise 3–5 days/week),No,Normal,9,No,Non-vegetarian,3,,likithpopularity@gmail.com
+07/07/2025 10:34:10,S.lakshmi,24,Female,5,50,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,2,Thyroid ,siripuramlakshmi28@gmail.com
+07/07/2025 10:34:29,Dileep Kumar ,24,Male,152,60,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,2,No,dileepsaaho79@gmail.com
+07/07/2025 10:40:34,Kaveti Navya Sree ,23,Female,4.11,57,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,2,N/a,kavetinavya2@gmail.com
+07/07/2025 10:42:48,Manisha,24,Female,162,50,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegetarian,2,,suddalamanisha@gmail.com
+07/07/2025 10:48:28,Ankam Akhila ,22,Female,158,51,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Vegetarian,3,,akhilaankam6@gmail.com
+07/07/2025 10:49:43,M.Mukesh,19,Male,155.7528,60.5,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegetarian,4,No,mukeshmaddela2006@gmail.com
+07/07/2025 10:49:44,Lalu Prasad,24,Male,160,50,,Sedentary (little or no exercise),No,Normal,9,No,Non-vegetarian,3,,lalu630434@gmail.com
+07/07/2025 10:49:55,Chaitanya,23,Male,5.11,88,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,,chaithanyabillu@gmail.com
+07/07/2025 10:52:33,Laharika ,24,Female,165,47,,Sedentary (little or no exercise),No,Low,6,No,Vegetarian,2,,laharikareddy2001@gmail.com
+07/07/2025 11:03:30,SreeMangali Ankitha ,23,Female,5,52,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,2,,sreemangaliankitha@gmail.com
+07/07/2025 14:05:59,Deepika,26,Female,167.64,61,,Sedentary (little or no exercise),No,Normal,7,No,Vegan,3,no,ushadeepika834@gmail.com
+07/07/2025 14:22:19,Manisha,23,Female,5.3,55,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Vegetarian,2,No ,arthammanisha20@gmail.com
+07/07/2025 14:25:54,Swathi,22,Female,5.8,60,,Sedentary (little or no exercise),No,Normal,10,No,Non-vegetarian,2,No,swathismily555@gmail.com
+07/07/2025 14:26:50,Kushal,24,Male,5.2,56,36,Sedentary (little or no exercise),No,Normal,16,Yes,Non-vegetarian,4,No,molankerkushal@gmail.com
+07/07/2025 14:28:32,Begari lavanya ,23,Female,5.2,32,,Sedentary (little or no exercise),No,Normal,8,Yes,Vegetarian,1,No,begarilavanya2002@gmail.com
+07/07/2025 14:33:00,Molankar Bhagyasri,26,Female,5,50,5,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,2,NA,molankarbhagyasree@gmail.com
+07/07/2025 14:42:39,Koppula Rohit,23,Male,5.9,86,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,4,No,koppularohit31@gmail.com
+07/07/2025 14:45:23,A.meghana goud ,23,Female,152,43,,Lightly active (light exercise 1–3 days/week),No,Normal,9,No,Vegetarian,3,None,meghanagoud0126@gmail.com
+07/07/2025 14:51:57,Maheswari ,22,Female,5.8,65,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,2,No,maheswarietikala@gmail.com
+07/07/2025 15:16:43,Vishal,24,Male,5.6,60,,Very active (hard exercise 6–7 days/week),No,Normal,9,No,Non-vegetarian,3,No,puthadevishal@gmail.com
+07/07/2025 15:55:58,Etikala ganesh yadav,19,Male,55,55,6,Extra active (very intense physical job or training),No,Normal,8,No,Non-vegetarian,3,No,ye8711207@gmail.com
+07/07/2025 16:05:08,K sainath,29,Male,182,70,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,,kanugantisai09@gmail.com
+07/07/2025 16:20:09,Sai Prasad,21,Male,160,60,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,No,msaiprasad00000@gmail.com
+07/07/2025 17:09:45,NIKHILESH BHARADWAJ,34,Male,180,80,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Vegetarian,3,No,nikhilesh9057@gmail.com
+07/07/2025 17:28:50,Talari Anusha ,25,Female,5,64,,Sedentary (little or no exercise),No,Normal,6,No,Vegetarian,2,PCOD ,talarianusha970@gmail.com
+07/07/2025 19:38:13,Meghana ,24,Female,163.78,52,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,No,meghanareddy2905@gmail.com
+07/07/2025 19:45:49,Anusha ,26,Female,5.5,72,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,2,No,banothanusha0805@gmail.com
+07/07/2025 20:36:58,Rahul ,28,Male,5.1,55,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,3,,rahulmolankar123@gmail.com
+08/07/2025 00:48:47,Cody T,28,Male,167,85,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,2,,codes.3929@gmail.com
+08/07/2025 05:54:38,Karthik,20,Male,160,60,,Very active (hard exercise 6–7 days/week),No,Normal,6,No,Non-vegetarian,3,,amkarthik452@gmail.com
+08/07/2025 08:17:55,Akshay,26,Male,170,80,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,2,,akshaykumar00743@gmail.com
+08/07/2025 09:59:38,Anil Babu,26,Male,170,86,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,1,,anilbabu617@gmail.com
+08/07/2025 13:03:28,Shivani,23,Female,155,55,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,2,No,kalerushivani11@gmail.com
+08/07/2025 18:58:57,K.saikiran,26,Male,160,51,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No,kasarasaikiran@gmail.com
+08/07/2025 19:32:04,Firdous Begum ,24,Female,162,73,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,pcos,begumfirdous90@gmail.com
+08/07/2025 19:36:24,MUMTAZ BEGUM,36,Female,160,85,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,3,nothing,mdadnaanaddy@gmail.com
+08/07/2025 20:04:22,Vara Prasad ,27,Male,180,64,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,No,varakota27@gmail.com
+08/07/2025 20:24:28,Yameena ,21,Female,4.5,40,,Lightly active (light exercise 1–3 days/week),Yes,Normal,12,No,Non-vegetarian,3,No,s86745622@gmail.com
+08/07/2025 20:39:54,Sai Kiran,27,Male,169,67,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,3,,kiransai559@gmail.com
+09/07/2025 02:56:51,Sowjanya Remalla ,26,Female,5.4,55,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,No,remallasowjanya97@gmail.com
+09/07/2025 02:57:00,Kajal kalika,23,Female,4.3,53,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,2,No,kajalkalika6@gmail.com
+09/07/2025 03:01:28,Dasamoni Swathi,25,Female,5,50,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,3,No,dasamoniswathi200@gmail.com
+09/07/2025 03:02:48,Maneesha kella,25,Female,5.3,50,12,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,N/A,kellamaneesha@gmail.com
+09/07/2025 03:07:12,Vivek,23,Male,5.6,69,15,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,3,NA,vickyvivek1715@gmail.com
+09/07/2025 03:09:29,T Bhargav,25,Male,168,70,60,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,2,No,mr.netha39@gmail.com
+09/07/2025 09:58:21,Adari praveena ,23,Female,125,52,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,Thyroid ,adari1444@gmail.com
+09/07/2025 10:20:26,Katta Mahesh Sai ,23,Male,5.7,77,,Very active (hard exercise 6–7 days/week),No,Normal,6,Yes,Non-vegetarian,2,No,kattamaheshsai26@gmail.com
+09/07/2025 10:27:08,Adhithya karthik,24,Male,250,57,,Extra active (very intense physical job or training),No,Normal,8,No,Vegetarian,2,no,adhithya6444@gmail.com
+09/07/2025 10:27:11,Bhargav,23,Male,5.8,75,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,2,no,koyiladabhargav2001@gmail.com
+09/07/2025 10:30:56,Adheesh,27,Male,170,75,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,Yes,Non-vegetarian,3,No,adheeshdonguri1998@gmail.com
+09/07/2025 10:33:19,Prem Gandhamalla,26,Male,169,76,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,,premkumar111239@gmail.com
+09/07/2025 10:39:38,krishna kanth,22,Male,182,70,,Moderately active (moderate exercise 3–5 days/week),No,Low,7,No,Vegetarian,2,,jangamkrishnakanth025@gmail.com
+09/07/2025 10:49:54,Kranthi,30,Male,157,62,17,Very active (hard exercise 6–7 days/week),No,Normal,6,No,Non-vegetarian,4,,kranthi6627@gmail.com
+09/07/2025 10:56:02,Gajula Mani,19,Male,164,81,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,4,No,gajulamani50@gmail.com
+09/07/2025 11:03:42,Gandamalla Indraja ,30,Female,5,50,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Vegetarian,2,Thyroid ,gandamallaindraja@gmail.com
+09/07/2025 11:18:43,Karthik chowdary ,22,Male,5.2,52,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,No,kotakarthikchowdary@gmail.com
+09/07/2025 11:21:30,CH. SAI,22,Male,170,82,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,2,,sainani1116@gmail.com
+09/07/2025 11:30:30,Ravi Chandra ,25,Male,174,64,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,3,NA,ravisunnny27@gmail.com
+09/07/2025 11:41:25,Polamarasetti Shekar,29,Female,200,83,,Sedentary (little or no exercise),Yes,Normal,7,No,Vegetarian,4,,rajeswari617123@gmail.com
+09/07/2025 12:08:59,Durgarao Pitla,28,Male,172,78,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,,durgagoud313@gmail.com
+09/07/2025 12:23:41,Bangaru Prem Kumar ,25,Male,182,78,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,No,prembangaru111@gmail.com
+09/07/2025 12:49:33,Md masoom,16,Male,5.5,55,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,,mdmasoom7550@gmail.com
+09/07/2025 13:08:10,Pendem Nandini ,21,Female,5.2,45,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Vegetarian,3,No,pendemnandini9347@gmail.com
+09/07/2025 13:23:34,Bala Bhaskar ,27,Male,165,99,,Sedentary (little or no exercise),No,Normal,9,No,Non-vegetarian,2,No,balabhaskarchennakesavula@gmail.com
+09/07/2025 13:32:54,Lakshman Pakala,29,Male,5.8,55,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,,lakshmanreddy076@gmail.com
+09/07/2025 13:37:29,Goutham Rathod ,21,Male,6,75,24,Moderately active (moderate exercise 3–5 days/week),No,High,9,No,Non-vegetarian,3,No,gouthambanoth61@gmail.com
+09/07/2025 13:50:34,Rohith Attuluri ,27,Male,14.986,90,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,,rohithnsf123@gmail.com
+09/07/2025 14:12:36,Sai manideep,24,Male,5.6,62,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,,saisaimanideep7@gmail.com
+09/07/2025 14:19:50,FARAZI,19,Female,5.7,40,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,1,No,fatimabatul1977@gmail.com
+09/07/2025 14:23:05,UppalapatiSaiNihith,28,Male,181,80,25,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegan,4,No ,uppalapatinihi289@gmail.com
+09/07/2025 14:26:04,Pavan,22,Male,5.1,53,,Lightly active (light exercise 1–3 days/week),No,Normal,5,No,Non-vegetarian,2,,pavansmiley754@gmail.com
+09/07/2025 14:27:29,Sameer khan,20,Male,6.2,63,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Vegetarian,2,No,officialsameerkhan56@gmail.com
+09/07/2025 14:28:10,Shrinath ,24,Male,5.9,63,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,Nope ,sridharreddykp@gmail.com
+09/07/2025 14:31:05,Abdul hannan,18,Male,5.8,47,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,,m8400033@gmail.com
+09/07/2025 14:36:44,Sravani ,19,Female,170,52,,Sedentary (little or no exercise),No,Low,5,No,Non-vegetarian,3,Iron defencency ,mamidisravani2005@gmail.com
+09/07/2025 14:36:53,Soujanya ,19,Female,5,36,,Lightly active (light exercise 1–3 days/week),No,Low,8,No,Vegetarian,3,No,soujanya0210@gmail.com
+09/07/2025 14:39:35,hasini,18,Female,174,63,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,4,no,yannamhasini@gmail.com
+09/07/2025 14:40:39,varshini,17,Female,166,72,,Sedentary (little or no exercise),No,Normal,6,No,Non-vegetarian,2,no,varshini2687@gmail.com
+09/07/2025 14:41:11,Rizan ,29,Male,169,69,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,,6rizan@gmail.com
+09/07/2025 14:43:38,Goutham,27,Male,5.8,90,35,Lightly active (light exercise 1–3 days/week),No,Normal,5,No,Non-vegetarian,3,None.,kadamgoutham27@gmail.com
+09/07/2025 14:45:38,Shiva Krishna ,26,Male,5.7,64,48,Extra active (very intense physical job or training),No,Normal,7,No,Vegetarian,5,No,shivakrishnamahankali@gmail.com
+09/07/2025 14:51:44,Shivani ,24,Female,5,54,30,Very active (hard exercise 6–7 days/week),No,Normal,7,Yes,Non-vegetarian,2,No,dandushivani77@gmail.com
+09/07/2025 14:57:12, YUVARAJ SINGH,24,Male,5.4,56,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,2,No,chandelyuvaraj777@gmail.com
+09/07/2025 15:00:39,Bharath Bantu,23,Male,170,65,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Vegetarian,3,No,bb1800r@gmail.com
+09/07/2025 15:01:10,Barghav Varma ,23,Male,178,77,17,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,2,No,dasarajubarghavvarma@gmail.com
+09/07/2025 15:01:49,DHANUNJAYA ,31,Male,170,54,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,3,,tdhanunjaya94@gmail.com
+09/07/2025 15:05:47,Surya,28,Male,175,90,,Moderately active (moderate exercise 3–5 days/week),No,Low,8,No,Non-vegetarian,2,,surya.ulisetti42@gmail.com
+09/07/2025 15:07:04,Ajay ,25,Male,178,130,,Sedentary (little or no exercise),No,Normal,12,No,Non-vegetarian,4,No,puppalaajaychef@gmail.com
+09/07/2025 15:10:10,Jashwanth ,17,Male,175,77,,Very active (hard exercise 6–7 days/week),No,Normal,5,No,Non-vegetarian,3,Nothing ,jashwanth07074@gmail.com
+09/07/2025 15:11:02,Sunil,30,Male,6,75,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,3,No,sunnysunil400@gmail.com
+09/07/2025 15:11:22,Manikanta Yogesh ,21,Male,5.6,63,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Vegetarian,3,,manikantayogesh9@gmail.com
+09/07/2025 15:11:53,Chan basha,28,Male,5.4,75,,Sedentary (little or no exercise),No,Normal,5,Yes,Non-vegetarian,4,,rajadarling799@gmail.com
+09/07/2025 15:15:52,Abhilash ,23,Male,178,78,,Lightly active (light exercise 1–3 days/week),No,Normal,9,No,Non-vegetarian,3,,abhilaash4321@gmail.com
+09/07/2025 15:17:46, Vidya vibhas ,25,Male,198,127,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,,vidyavibhas07@gmail.com
+09/07/2025 15:23:48,Sravan,18,Male,5.8,50,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,,vallapusravanraj@gmail.com
+09/07/2025 15:23:51,Venu ,18,Male,120,47,,Sedentary (little or no exercise),No,Normal,8,Yes,Vegetarian,4,,amulyach2003@gmail.com
+09/07/2025 15:24:08,Harsha,19,Male,5.8,65,,Moderately active (moderate exercise 3–5 days/week),No,Normal,9,No,Non-vegetarian,2,,clickjaxx@gmail.com
+09/07/2025 15:30:16,Venkatesh P A S,30,Male,170,68,,Very active (hard exercise 6–7 days/week),No,Normal,7,No,Non-vegetarian,3,None,pasvenkatesh24@gmail.com
+09/07/2025 15:32:31,Rakesh Mallick ,26,Male,5.7,65,,Sedentary (little or no exercise),No,Normal,5,No,Vegetarian,3,Gastric ,r19279788@gmail.com
+09/07/2025 15:58:32,Toshit,17,Male,182.5,79,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,No,klakshitha881@gmail.com
+09/07/2025 15:59:20,Rushikesh ,24,Male,5.7,50,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,,rushikeshvvk01@gmail.com
+09/07/2025 16:06:51,Dinesh ,27,Male,5.4,69,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,2,No,muraboyinadineshyadav@gmail.com
+09/07/2025 16:07:38,venkataramana,27,Male,178,62,7,Extra active (very intense physical job or training),No,Normal,6,No,Non-vegetarian,4,No,venkataramanakottari@gmail.com
+09/07/2025 17:17:32,Prasad,22,Male,140,52,,Extra active (very intense physical job or training),No,Normal,6,No,Non-vegetarian,2,NA,prasadyarakala29@gmail.com
+09/07/2025 17:19:30,Rajendraprasad,22,Male,180,78,,Very active (hard exercise 6–7 days/week),No,Normal,8,No,Non-vegetarian,2,No,rajendraprasadchalla8179@gmail.com
+09/07/2025 17:24:28,Shaik Anjuma Begum ,49,Female,155,71,,Lightly active (light exercise 1–3 days/week),No,Normal,5,No,Non-vegetarian,3,Bone calcium deficiency ,anjumabegum.s786@gmail.com
+09/07/2025 17:51:57,Shaik Sarfraz,23,Male,175,106,,Moderately active (moderate exercise 3–5 days/week),No,Normal,6,No,Non-vegetarian,2,Dust allergy,shaiksarfraz2001@gmail.com
+09/07/2025 18:17:13,Sai manoj,26,Male,177,48,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,,saimanojduvvuru15@gmail.com
+09/07/2025 19:52:58,Ganti Srikanth,33,Male,158,85,,Sedentary (little or no exercise),No,Normal,6,Yes,Non-vegetarian,2,no,srikanthsree385@gmail.com
+09/07/2025 20:31:06,Kalpana ,24,Female,5.6,56,,Sedentary (little or no exercise),No,Normal,8,Yes,Vegetarian,1,No ,reddy.kalpana001@gmail.com
+10/07/2025 01:46:49,Navaneetha ,24,Female,5.3,45,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,2,No,navneethareddy04@gmail.com
+10/07/2025 06:50:21,Komal mali,23,Female,4.11,39,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Vegetarian,2,No,komalm1205@gmail.com
+10/07/2025 08:45:45,Akhil,28,Male,173,72,20,Sedentary (little or no exercise),No,Normal,10,No,Non-vegetarian,3,No,ak8001038@gmail.com
+10/07/2025 08:51:24,Devi Sree,26,Female,163,52,,Lightly active (light exercise 1–3 days/week),No,Normal,7,No,Non-vegetarian,3,None.,devisreependyala@gmail.com
+10/07/2025 10:17:27,Khoushik,23,Male,180,72,,Very active (hard exercise 6–7 days/week),No,Normal,5,No,Non-vegetarian,3,No,rajkhoushik@gmail.com
+10/07/2025 15:29:12,Vishal,26,Male,180,87,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Vegetarian,3,,bhaskarvishalperi83@gmail.com
+10/07/2025 19:30:02,Hemath,36,Male,5.6,62,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,,hemanthswapna28@gmail.com
+10/07/2025 21:10:53,Annu Thanishka Reddy,18,Female,5,48,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,,a.thanishka09@gmail.com
+10/07/2025 21:12:46,Janga reddy,45,Male,6,64,,Moderately active (moderate exercise 3–5 days/week),No,Normal,8,No,Non-vegetarian,3,,annujangareddy9989@gmail.com
+10/07/2025 21:18:14,chandana,37,Female,5.5,58,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,,chandanaannu58@gmail.com
+10/07/2025 22:12:59,Ch . Priyanka ,23,Female,5.2,42,,Lightly active (light exercise 1–3 days/week),No,Normal,8,No,Non-vegetarian,3,NO,priyankapriya82839@gmail.com
+10/07/2025 22:30:28,Keerthi ,23,Female,154,59,,Sedentary (little or no exercise),No,Normal,7,No,Non-vegetarian,3,,keerthisagar2001ammu@gmail.com
+10/07/2025 22:47:39,K.srija,23,Female,5.3,47,,Moderately active (moderate exercise 3–5 days/week),No,Normal,7,No,Non-vegetarian,3,No,katamonisrija@gmail.com
+11/07/2025 21:43:57,Madhu Latha ,30,Female,160,75,5,Sedentary (little or no exercise),No,Normal,9,No,Non-vegetarian,3,No,madhuramukannaya@gmail.com
+11/07/2025 21:45:12,Pindi Ramulu,36,Male,5.3,68,,Sedentary (little or no exercise),No,Normal,8,No,Non-vegetarian,3,NA,pindir999@gmail.com
+12/07/2025 21:25:03,Kilagana Aswiini,28,Female,5.2,75,,Extra active (very intense physical job or training),No,Normal,8,No,Non-vegetarian,2,NA,kolaganaaswini@gmail.com
+12/07/2025 21:34:51,Shanmukharao ,36,Male,158,61,,Lightly active (light exercise 1–3 days/week),No,Normal,6,No,Non-vegetarian,2,No,ksrao119@gmail.com
+13/07/2025 19:45:26,Seshu,30,Male,5.3,60,,Very active (hard exercise 6–7 days/week),No,Normal,6,Yes,Non-vegetarian,3,,seshugdm50@gmail.com
+28/07/2025 20:54:55,kalu jha,109,Male,280,650,60,Sedentary (little or no exercise),Yes,High,24,Yes,Vegan,7,"thyroid, PCOS, allergiesn and there more but i can tell u ",kartikshazam2@gmail.com
